@@ -1,5 +1,5 @@
 ## Whoami
-My name is J. Kulik. I am a full-stack web developer with a range of knowledge in Web Development. I am most experienced using HTML, CSS, Django and Bootstrap 5. However, I do have experience using JQuery, Tailwind and WordPress.
+My name is Jacob Kulik. I am a full-stack web developer with a range of knowledge in Web Development. I am most experienced using HTML, CSS, Django and Bootstrap 5. However, I do have experience using JQuery, Tailwind and WordPress.
 
 ## ls experience/
 
