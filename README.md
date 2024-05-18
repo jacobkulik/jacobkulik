@@ -26,6 +26,12 @@ During my T Level, I spent one year at a EPOS Sales Company. I was primarly in t
 
 I'm currently working as an Admin/Technicain for Wight Choice. I am not only designing and developing their website but also helping with bookings.
 
+## Background
+
+My love for computers started at an early age. A friend of my parents was living with us at the time when i was 10, who was an ethical hacker, he would often teach me about Computers and Ethical Hacking. I fell in love with Computers and my curiosity was constantly growing. How were computers invented? How do they work? All these questions.
+
+At the age of 12 I started learning Malware Development and would go onto learn C++. From there, I would dive into the world of Web Development, creating small but fun projects. I found ethical hacking most interesting but expanded my knowledge in Cyber Security, gaining valuable experience with identifying if a computer has been infected, being able to defend against threat actors and Incident Response.
+
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, JavaScript
