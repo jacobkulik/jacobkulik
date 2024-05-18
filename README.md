@@ -17,7 +17,7 @@ My name is Jacob Kulik. I am a full-stack web developer with a range of knowledg
 ### Courses
 
 #### Digital Production, Design and Development
-- College | Expected Finish: July 2024
+- Pearson | Results Day: August 2024 
 - 16 Units
 
 ### Work Experience
